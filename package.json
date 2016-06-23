@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "engines":{
+    "node": "6.2.1",
+    "npm": "3.9.3"
+  },
+  "author": "Katsuki",
+  "license": "ISC"
+}
