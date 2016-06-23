@@ -6,9 +6,13 @@
   "scripts": {
     "test": "node index.js"
   },
-  "engines":{
+  "engine":{
     "node": "6.2.1",
     "npm": "3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrykirby/herokuTest.git"
   },
   "author": "Katsuki",
   "license": "ISC"
